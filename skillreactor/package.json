@@ -1,0 +1,9 @@
+{
+  "name": "skillreactor_project",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "repository": "https://EnvironmentSetup-at-601206104627:wy4fPRdbTzhJWPCUsyZDtZCbpjgDdD4xeUekb0s0l1Q=@git-codecommit.eu-west-2.amazonaws.com/v1/repos/EnvironmentSetup-muneeb-836fbc8b",
+  "author": "muneebahmedayub <muneebahmedayub01@gmail.com>",
+  "license": "MIT"
+}
